@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">JMSprojekat</string>
+    <string name="app_rest">Bon Appetit</string>
+    <string name="app_button">Naruci</string>
+    <string name="id_labelaJelo">Izaberite jelo</string>
+    <string name="id_labelaPIce">Izaberite pice</string>
+    <string name="id_labelaKomentar">Dodatni komentar</string>
+    <string name="id_palacinka">palacinka</string>
+    <string name="id_krofna">krofna</string>
+    <string name="id_sok">sok</string>
+    <string name="id_caj">caj</string>
+    <string name="id_hint">Unesite komentar</string>
+    <string name="id_nacin">Nacin isporuke</string>
+    <string name="isp_rest">Posluziti u restoranu</string>
+    <string name="isp_poneti">Za poneti</string>
+
+
+</resources>

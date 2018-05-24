@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="roze">#c94f7c</color>
+    <color name="bela">#FFFFFF</color>
+    <color name="crvena">#D50000</color>
+    <color name="svetlocrvena">#EF5350</color>
+    <color name="ljubicasta">#880E4F</color>
+
+
+</resources>
